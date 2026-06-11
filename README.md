@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupbahar" alt="eyupbahar" /></a> </p>
 
-- 🔭 I’m currently working on **(JavaScript | React | TypeScript )**
+- 🔭 I’m currently working on **(JavaScript | React | TypeScript | Angular | Asp .Net  )**
 
-- 🌱 I’m currently learning **React Native | Django**
+- 🌱 I’m currently learning **Asp .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EyupBahar](https://github.com/EyupBahar)
 
-- 💬 Ask me about **react | javascript**
+- 💬 Ask me about **React | javascript**
 
 - 📫 How to reach me **eyupbhr24@gmail.com**
 
