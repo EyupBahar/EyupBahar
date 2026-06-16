@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EyupBahar](https://github.com/EyupBahar)
 
-- 💬 Ask me about **React | javascript**
+- 💬 Ask me about **React.js | Angular | javascript**
 
 - 📫 How to reach me **eyupbhr24@gmail.com**
 
